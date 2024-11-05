@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694545674827",
+    "project_id": "gestor-medico-a82a5",
+    "storage_bucket": "gestor-medico-a82a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694545674827:android:88897e4e1a171590a6d3ce",
+        "android_client_info": {
+          "package_name": "com.example.gestor_historial_medico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOr8ZmMvTlgnhrUR4Cxg-DOjqeQ0XOYAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
