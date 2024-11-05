@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Editar datos del paciente"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/black"
+        android:layout_marginVertical="8dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="24dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <EditText
+            android:layout_width="295dp"
+            android:layout_height="wrap_content"
+            android:hint="Editar datos"
+            android:id="@+id/txt_Datos"
+            android:padding="24dp" />
+        
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_Guardar"
+            android:text="Guardar"
+            android:padding="24dp" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Volver"
+        android:id="@+id/btn_Volver"
+        android:padding="24dp" />
+
+</LinearLayout>
