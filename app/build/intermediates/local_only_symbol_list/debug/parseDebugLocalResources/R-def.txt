@@ -9,6 +9,10 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id btn_edit_data
+id tv_patient_data
+id tv_patient_info
+layout activity_data_patient
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

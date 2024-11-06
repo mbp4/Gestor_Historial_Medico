@@ -4,50 +4,70 @@ ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\
 INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:2:1-28:12
-MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb040f1676538b33484a494660283e6\transformed\material3-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\15448f026d28dc88eddac02ee765060c\transformed\material-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52947d1cd65bb1ff3eeb18314ddd839c\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f008a8da694cff91a32c1f03293611ea\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\caf855803db741464da50bcf21525e94\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\a67c3396d83d6d8e3d4787c3d317fe03\transformed\animation-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9e5828cb2955270a5e73e91def88c3ca\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\a052ce4c25ff3470cb1e85225efd23bc\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23d8e363621de2d8bcbebc560baa4063\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\54cc477b194c2226a54791f46aee20de\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\13f71d46723c35f4b99cf0a664e3f71e\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9d2bef491fcd11a09edfd02d064a9fca\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-text-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\83604bb4d9d942f514d6b3e14f2e9b97\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\63ab5d3ca18fbcea6ef7879ffbdf72af\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52a22fa204129263b870f5e0ce14ba94\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\fc92cdc7d9099edcc36b2ad0b4a9ab3d\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\d68f83b042ea595b754e76dac24c1cdd\transformed\ui-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e273c5e7bf377864c28d412bb769e549\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\b4d1df2cb74f8b31ca4498c4f5d9b9af\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\d4e9eda585896c0f80def41c1ced3e88\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\a78d2e6ecae9c6477b9c4c17c317083f\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\ed7624b8a172a453738195f3b09f1fa9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\1dc2271075af7ab017163d2210ee6c62\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\ffe6601f9e05912fb51d4e484d5bf007\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\b573b618fd57d6ba0043e857f12adbcb\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\e5da1ae2a9d7eabfb0282db15e960385\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\0473bb88d452e254f6906efe5159433c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\42cb773eac6c7b0054ff5d2111398c01\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\9a2578645552a54fc8742a244a1bb67d\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\c210f22482022a2d60ab6116cb6742fd\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\9a322de655e935eb805f904ffaaefac9\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\3103e5da6c057e808fbe72e3318655b5\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9061062f7e820054611427d4870ee88b\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\ebd862ed85b3d2007b92448e3f37bb54\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\47488d2a584dad38591a528b6087c273\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\064583a8f7fbeea75bda7285a7db553d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\5ef3b544e7746a6682d5bcca282e94ed\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\9cd5f85b2b486367718d21e0566709a6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\b0e74ffb656e88fe1d8cec20656f222a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\apuyo\.gradle\caches\transforms-4\6593a6714ae54ea4cd662c03be0da6db\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\e2b1d7a1818ddc194db445302885275e\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\50daf95a6c73b5e1bba432dad24725b3\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\95a6fba57922ce215470876ae363f1dc\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\186a50c6838c13f2c74e01c925a96eed\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\3749ce032771c889c49e68abfdb8724f\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f9fb9b67fd5362d350d62924767affb3\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\5c001975a967f5661dab886b886ba5a0\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\33885a7898e48c88b008d6301b7cefb5\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9b64166df914905d2ee03c0f7c0672c8\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\cc7eb87fa9e38175656b584e269143bc\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f5c8034cd168d4ade15a0a01d0325c8b\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\783efea1d874ef561dbdee13aa01c0e6\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\1914ae40ab5bafb24ea42ee08334dd59\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\b909f67403aa5855cb6121cc885b1078\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\1c313c440293091c260ec970020b339e\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\ff3b430e21e60c08c17575d3de0babd8\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\96d9d9197e2563f157d904170556c1a7\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\320b6232c047b2fa440b5b01d69b4c3d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\apuyo\.gradle\caches\transforms-4\0d4fcfeee21bd3be1be9a6a01e8b58ed\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\bf1e3d513145c4caa25e43358b066257\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\8e1013f72ab0c856ea8e4d3d1cbd0a65\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\f92c9b083f1a587f5c5479e57f845697\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\436f1a1a2f665205d0cb7b13a7f538fd\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\cfdc5b015ace95a939438c76df937d7c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\32cecba5fe446d9a1154695cbbdb7fca\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\6bed205b97a771d94991d7f213c484e5\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\b3b6e63c2b2f619caa445c7ff7cd7e1f\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\8a94b6c49439ff5bb27a986d52a596ea\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\573d6258529a1178fb8518c94692634c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\923532476050b80840d4228641d803a3\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\45b0859e037e8f2e9c2a901801a7220a\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\abec454c4fe210dca4dec2bc0dd0a226\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\b08840c92568e74719efbb87afdb0c0c\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\57c23a996a4b1f229ed0f2cef2f00d70\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\3be2b5681a0b6e9f04cb004da7edb4c1\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\05c2aa6f01ebf7445d43d6030874be24\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\fb42e97454f8320ae784eaa867733819\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\apuyo\.gradle\caches\transforms-4\a80e6b69079cb22f64a533deb2a2f21a\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\apuyo\.gradle\caches\transforms-4\39be5c4d03c914604e50ce15695f243a\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\84f6e7c4fe74cfe490477401acce4f1a\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\cbc5abbef94957115e8481289ecd90d9\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\96c2fc9de907f5984368a2e121801913\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\f9bdd6fc10328111276f03022c0d3a4b\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\ffb48fc639971d648535b0a366cfb873\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\796d475b53e38b7cfbe155bc0f5560e3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\a4c13e34ea16179fb09163087f09e7dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\8206503b2ca5747318e268b5cf6e2ed0\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\e7fa9c0294339656bfcdb69f695d6108\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\d91d06ecdbfe7e837aac5dcb9d561291\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\apuyo\.gradle\caches\transforms-4\3564ed1a4e07d4c68687ff3b6b98cd25\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\ce53135bd7ed792d9d537fbbbd24d994\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\apuyo\.gradle\caches\transforms-4\e07bae8d0cc73c2054974e5b55386f4f\transformed\grpc-android-1.62.2\AndroidManifest.xml:2:1-9:12
 	package
 		INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -61,26 +81,44 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\apuyo\.
 application
 ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:5:5-26:19
 INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:5:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52a22fa204129263b870f5e0ce14ba94\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52a22fa204129263b870f5e0ce14ba94\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e273c5e7bf377864c28d412bb769e549\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e273c5e7bf377864c28d412bb769e549\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\064583a8f7fbeea75bda7285a7db553d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\064583a8f7fbeea75bda7285a7db553d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\9cd5f85b2b486367718d21e0566709a6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\9cd5f85b2b486367718d21e0566709a6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\96d9d9197e2563f157d904170556c1a7\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\96d9d9197e2563f157d904170556c1a7\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\apuyo\.gradle\caches\transforms-4\0d4fcfeee21bd3be1be9a6a01e8b58ed\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\apuyo\.gradle\caches\transforms-4\0d4fcfeee21bd3be1be9a6a01e8b58ed\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\apuyo\.gradle\caches\transforms-4\a80e6b69079cb22f64a533deb2a2f21a\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\apuyo\.gradle\caches\transforms-4\a80e6b69079cb22f64a533deb2a2f21a\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\a4c13e34ea16179fb09163087f09e7dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\a4c13e34ea16179fb09163087f09e7dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\e7fa9c0294339656bfcdb69f695d6108\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\e7fa9c0294339656bfcdb69f695d6108\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
@@ -99,7 +137,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ap
 		ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:13:9-61
 	android:dataExtractionRules
 		ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.gestor_historial_medico.MainActivity
+activity#com.example.gestor_historial_medico.DataPatientActivity
 ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:15:9-25:20
 	android:label
 		ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:18:13-45
@@ -108,7 +146,7 @@ ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\
 	android:theme
 		ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:16:13-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
@@ -123,197 +161,319 @@ uses-sdk
 INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml
-MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb040f1676538b33484a494660283e6\transformed\material3-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb040f1676538b33484a494660283e6\transformed\material3-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\15448f026d28dc88eddac02ee765060c\transformed\material-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\15448f026d28dc88eddac02ee765060c\transformed\material-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52947d1cd65bb1ff3eeb18314ddd839c\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52947d1cd65bb1ff3eeb18314ddd839c\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f008a8da694cff91a32c1f03293611ea\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f008a8da694cff91a32c1f03293611ea\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\caf855803db741464da50bcf21525e94\transformed\foundation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\caf855803db741464da50bcf21525e94\transformed\foundation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\a67c3396d83d6d8e3d4787c3d317fe03\transformed\animation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\a67c3396d83d6d8e3d4787c3d317fe03\transformed\animation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9e5828cb2955270a5e73e91def88c3ca\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9e5828cb2955270a5e73e91def88c3ca\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\a052ce4c25ff3470cb1e85225efd23bc\transformed\animation-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\a052ce4c25ff3470cb1e85225efd23bc\transformed\animation-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23d8e363621de2d8bcbebc560baa4063\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23d8e363621de2d8bcbebc560baa4063\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\54cc477b194c2226a54791f46aee20de\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\54cc477b194c2226a54791f46aee20de\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\13f71d46723c35f4b99cf0a664e3f71e\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\13f71d46723c35f4b99cf0a664e3f71e\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9d2bef491fcd11a09edfd02d064a9fca\transformed\ui-util-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9d2bef491fcd11a09edfd02d064a9fca\transformed\ui-util-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\83604bb4d9d942f514d6b3e14f2e9b97\transformed\ui-text-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\83604bb4d9d942f514d6b3e14f2e9b97\transformed\ui-text-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\63ab5d3ca18fbcea6ef7879ffbdf72af\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\63ab5d3ca18fbcea6ef7879ffbdf72af\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52a22fa204129263b870f5e0ce14ba94\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52a22fa204129263b870f5e0ce14ba94\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\fc92cdc7d9099edcc36b2ad0b4a9ab3d\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\fc92cdc7d9099edcc36b2ad0b4a9ab3d\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\d68f83b042ea595b754e76dac24c1cdd\transformed\ui-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\d68f83b042ea595b754e76dac24c1cdd\transformed\ui-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e273c5e7bf377864c28d412bb769e549\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e273c5e7bf377864c28d412bb769e549\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\b4d1df2cb74f8b31ca4498c4f5d9b9af\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\b4d1df2cb74f8b31ca4498c4f5d9b9af\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\d4e9eda585896c0f80def41c1ced3e88\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\d4e9eda585896c0f80def41c1ced3e88\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\a78d2e6ecae9c6477b9c4c17c317083f\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\a78d2e6ecae9c6477b9c4c17c317083f\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\ed7624b8a172a453738195f3b09f1fa9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\ed7624b8a172a453738195f3b09f1fa9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\1dc2271075af7ab017163d2210ee6c62\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\1dc2271075af7ab017163d2210ee6c62\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\ffe6601f9e05912fb51d4e484d5bf007\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\ffe6601f9e05912fb51d4e484d5bf007\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\b573b618fd57d6ba0043e857f12adbcb\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\b573b618fd57d6ba0043e857f12adbcb\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\e5da1ae2a9d7eabfb0282db15e960385\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\e5da1ae2a9d7eabfb0282db15e960385\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\0473bb88d452e254f6906efe5159433c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\0473bb88d452e254f6906efe5159433c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\42cb773eac6c7b0054ff5d2111398c01\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\42cb773eac6c7b0054ff5d2111398c01\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\9a2578645552a54fc8742a244a1bb67d\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\9a2578645552a54fc8742a244a1bb67d\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\c210f22482022a2d60ab6116cb6742fd\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\c210f22482022a2d60ab6116cb6742fd\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\9a322de655e935eb805f904ffaaefac9\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\9a322de655e935eb805f904ffaaefac9\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\3103e5da6c057e808fbe72e3318655b5\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\3103e5da6c057e808fbe72e3318655b5\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9061062f7e820054611427d4870ee88b\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9061062f7e820054611427d4870ee88b\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\ebd862ed85b3d2007b92448e3f37bb54\transformed\runtime-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\ebd862ed85b3d2007b92448e3f37bb54\transformed\runtime-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\47488d2a584dad38591a528b6087c273\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\47488d2a584dad38591a528b6087c273\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\064583a8f7fbeea75bda7285a7db553d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\064583a8f7fbeea75bda7285a7db553d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\5ef3b544e7746a6682d5bcca282e94ed\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\5ef3b544e7746a6682d5bcca282e94ed\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\9cd5f85b2b486367718d21e0566709a6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\9cd5f85b2b486367718d21e0566709a6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\b0e74ffb656e88fe1d8cec20656f222a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\b0e74ffb656e88fe1d8cec20656f222a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\apuyo\.gradle\caches\transforms-4\6593a6714ae54ea4cd662c03be0da6db\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\apuyo\.gradle\caches\transforms-4\6593a6714ae54ea4cd662c03be0da6db\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\e2b1d7a1818ddc194db445302885275e\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\e2b1d7a1818ddc194db445302885275e\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\50daf95a6c73b5e1bba432dad24725b3\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\50daf95a6c73b5e1bba432dad24725b3\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\95a6fba57922ce215470876ae363f1dc\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\95a6fba57922ce215470876ae363f1dc\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\186a50c6838c13f2c74e01c925a96eed\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\186a50c6838c13f2c74e01c925a96eed\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\3749ce032771c889c49e68abfdb8724f\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\3749ce032771c889c49e68abfdb8724f\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f9fb9b67fd5362d350d62924767affb3\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f9fb9b67fd5362d350d62924767affb3\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\5c001975a967f5661dab886b886ba5a0\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\5c001975a967f5661dab886b886ba5a0\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\33885a7898e48c88b008d6301b7cefb5\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\33885a7898e48c88b008d6301b7cefb5\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9b64166df914905d2ee03c0f7c0672c8\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\9b64166df914905d2ee03c0f7c0672c8\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\cc7eb87fa9e38175656b584e269143bc\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\cc7eb87fa9e38175656b584e269143bc\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f5c8034cd168d4ade15a0a01d0325c8b\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\f5c8034cd168d4ade15a0a01d0325c8b\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\783efea1d874ef561dbdee13aa01c0e6\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\783efea1d874ef561dbdee13aa01c0e6\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\1914ae40ab5bafb24ea42ee08334dd59\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\1914ae40ab5bafb24ea42ee08334dd59\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\b909f67403aa5855cb6121cc885b1078\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\b909f67403aa5855cb6121cc885b1078\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\1c313c440293091c260ec970020b339e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\1c313c440293091c260ec970020b339e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\ff3b430e21e60c08c17575d3de0babd8\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\ff3b430e21e60c08c17575d3de0babd8\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\96d9d9197e2563f157d904170556c1a7\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\96d9d9197e2563f157d904170556c1a7\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\320b6232c047b2fa440b5b01d69b4c3d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\320b6232c047b2fa440b5b01d69b4c3d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\apuyo\.gradle\caches\transforms-4\0d4fcfeee21bd3be1be9a6a01e8b58ed\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\apuyo\.gradle\caches\transforms-4\0d4fcfeee21bd3be1be9a6a01e8b58ed\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\bf1e3d513145c4caa25e43358b066257\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\bf1e3d513145c4caa25e43358b066257\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\8e1013f72ab0c856ea8e4d3d1cbd0a65\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\8e1013f72ab0c856ea8e4d3d1cbd0a65\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\f92c9b083f1a587f5c5479e57f845697\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\f92c9b083f1a587f5c5479e57f845697\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\436f1a1a2f665205d0cb7b13a7f538fd\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\apuyo\.gradle\caches\transforms-4\436f1a1a2f665205d0cb7b13a7f538fd\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\cfdc5b015ace95a939438c76df937d7c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\cfdc5b015ace95a939438c76df937d7c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\32cecba5fe446d9a1154695cbbdb7fca\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\32cecba5fe446d9a1154695cbbdb7fca\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\6bed205b97a771d94991d7f213c484e5\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\6bed205b97a771d94991d7f213c484e5\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\b3b6e63c2b2f619caa445c7ff7cd7e1f\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\b3b6e63c2b2f619caa445c7ff7cd7e1f\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\8a94b6c49439ff5bb27a986d52a596ea\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\8a94b6c49439ff5bb27a986d52a596ea\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\573d6258529a1178fb8518c94692634c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\573d6258529a1178fb8518c94692634c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\923532476050b80840d4228641d803a3\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\923532476050b80840d4228641d803a3\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\45b0859e037e8f2e9c2a901801a7220a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\45b0859e037e8f2e9c2a901801a7220a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\abec454c4fe210dca4dec2bc0dd0a226\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\abec454c4fe210dca4dec2bc0dd0a226\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\b08840c92568e74719efbb87afdb0c0c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\b08840c92568e74719efbb87afdb0c0c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\57c23a996a4b1f229ed0f2cef2f00d70\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\57c23a996a4b1f229ed0f2cef2f00d70\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\3be2b5681a0b6e9f04cb004da7edb4c1\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\3be2b5681a0b6e9f04cb004da7edb4c1\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\05c2aa6f01ebf7445d43d6030874be24\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\05c2aa6f01ebf7445d43d6030874be24\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\fb42e97454f8320ae784eaa867733819\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\fb42e97454f8320ae784eaa867733819\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\apuyo\.gradle\caches\transforms-4\a80e6b69079cb22f64a533deb2a2f21a\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\apuyo\.gradle\caches\transforms-4\a80e6b69079cb22f64a533deb2a2f21a\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\apuyo\.gradle\caches\transforms-4\39be5c4d03c914604e50ce15695f243a\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\apuyo\.gradle\caches\transforms-4\39be5c4d03c914604e50ce15695f243a\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\84f6e7c4fe74cfe490477401acce4f1a\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\84f6e7c4fe74cfe490477401acce4f1a\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\cbc5abbef94957115e8481289ecd90d9\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\cbc5abbef94957115e8481289ecd90d9\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\96c2fc9de907f5984368a2e121801913\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\apuyo\.gradle\caches\transforms-4\96c2fc9de907f5984368a2e121801913\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\f9bdd6fc10328111276f03022c0d3a4b\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\f9bdd6fc10328111276f03022c0d3a4b\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\ffb48fc639971d648535b0a366cfb873\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\ffb48fc639971d648535b0a366cfb873\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\796d475b53e38b7cfbe155bc0f5560e3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\796d475b53e38b7cfbe155bc0f5560e3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\a4c13e34ea16179fb09163087f09e7dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\a4c13e34ea16179fb09163087f09e7dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\8206503b2ca5747318e268b5cf6e2ed0\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\8206503b2ca5747318e268b5cf6e2ed0\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\e7fa9c0294339656bfcdb69f695d6108\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\e7fa9c0294339656bfcdb69f695d6108\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\d91d06ecdbfe7e837aac5dcb9d561291\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\apuyo\.gradle\caches\transforms-4\d91d06ecdbfe7e837aac5dcb9d561291\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\apuyo\.gradle\caches\transforms-4\3564ed1a4e07d4c68687ff3b6b98cd25\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\apuyo\.gradle\caches\transforms-4\3564ed1a4e07d4c68687ff3b6b98cd25\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\ce53135bd7ed792d9d537fbbbd24d994\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\ce53135bd7ed792d9d537fbbbd24d994\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\apuyo\.gradle\caches\transforms-4\e07bae8d0cc73c2054974e5b55386f4f\transformed\grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\apuyo\.gradle\caches\transforms-4\e07bae8d0cc73c2054974e5b55386f4f\transformed\grpc-android-1.62.2\AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
 		INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml
-activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52a22fa204129263b870f5e0ce14ba94\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52a22fa204129263b870f5e0ce14ba94\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
-	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\52a22fa204129263b870f5e0ce14ba94\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
-activity#androidx.activity.ComponentActivity
-ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e273c5e7bf377864c28d412bb769e549\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:23:9-25:39
-	android:exported
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e273c5e7bf377864c28d412bb769e549\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:25:13-36
-	android:name
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e273c5e7bf377864c28d412bb769e549\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:24:13-63
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\064583a8f7fbeea75bda7285a7db553d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\064583a8f7fbeea75bda7285a7db553d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
-	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
-meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\8bd2caff81deafc4ce624dd11a32acad\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\384a5d708a2e0ab1962267709f2051be\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
-permission#com.example.gestor_historial_medico.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
-uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
-uses-permission#com.example.gestor_historial_medico.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\d6759cf56c01f9c223a75cc474376556\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
-receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
-	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
-	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
-	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:13:17-129
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\apuyo\.gradle\caches\transforms-4\e07bae8d0cc73c2054974e5b55386f4f\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\apuyo\.gradle\caches\transforms-4\e07bae8d0cc73c2054974e5b55386f4f\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:11:22-64
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:24:13-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\a4c13e34ea16179fb09163087f09e7dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\a4c13e34ea16179fb09163087f09e7dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.example.gestor_historial_medico.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.gestor_historial_medico.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\ddb2955a409dd8d5966b8b8fd6789928\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
