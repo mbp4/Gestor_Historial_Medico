@@ -6,6 +6,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Spinner
 import android.widget.Toast
+import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.Firebase
 import com.google.firebase.firestore.FirebaseFirestore
@@ -32,7 +33,7 @@ class Paciente2Activity: AppCompatActivity(){
         spinner.adapter = adapter
 
         btnGuardar.setOnClickListener {
-            guardarEditado()
+            confirmacion()
             finish()
         }
 
@@ -43,46 +44,66 @@ class Paciente2Activity: AppCompatActivity(){
 
     }
 
+    private fun confirmacion() {
+        AlertDialog.Builder(this)
+            .setTitle("Editar campo")
+            .setMessage("¿Estás seguro de que quieres editar este campo?")
+            .setPositiveButton("Sí") { _, _ ->
+                // Si el usuario confirma, se llama a guardarEditado()
+                guardarEditado()
+            }
+                .setNegativeButton("No", null)
+                .show()
+
+    }
+
     private fun guardarEditado() {
         val dato = txtDato.text.toString()
         val opcionSeleccionada = spinner.selectedItem.toString()
 
-        when (opcionSeleccionada) {
-            "ALERGIAS" -> {
-
-                Toast.makeText(this, "Alergias actualizadas", Toast.LENGTH_SHORT).show()
-            }
-            "APELLIDOS" -> {
-
-                Toast.makeText(this, "Apellidos actualizados", Toast.LENGTH_SHORT).show()
-            }
-            "NOMBRE" -> {
-
-                Toast.makeText(this, "Nombre actualizado", Toast.LENGTH_SHORT).show()
-            }
-            "EDAD" -> {
-
-                Toast.makeText(this, "Edad actualizada", Toast.LENGTH_SHORT).show()
-            }
-            "ID" -> {
-
-                Toast.makeText(this, "ID actualizado", Toast.LENGTH_SHORT).show()
-            }
-            "MEDICAMENTOS" -> {
-
-                Toast.makeText(this, "Medicamentos actualizados", Toast.LENGTH_SHORT).show()
-            }
-            "OPERACIONES" -> {
-
-                Toast.makeText(this, "Operaciones actualizadas", Toast.LENGTH_SHORT).show()
-            }
-            else -> {
-                Toast.makeText(this, "Campo no reconocido", Toast.LENGTH_SHORT).show()
-            }
+        val paciente = intent.getStringExtra("idPaciente")
+        if (paciente.isNullOrEmpty()) {
+            Toast.makeText(this, "El paciente no se ha encontrado", Toast.LENGTH_SHORT).show()
+            return
         }
 
-        if (dato.isEmpty()){
-            Toast.makeText(this, "No puede ingresar un dato en blanco", Toast.LENGTH_SHORT).show()
+        val campoEditar = when (opcionSeleccionada) {
+            "ALERGIAS" -> "alergias"
+            "APELLIDOS" -> "apellidos"
+            "NOMBRE" -> "nombre"
+            "EDAD" -> "edad"
+            "ID" -> "idPaciente"
+            "MEDICAMENTOS" -> "medicamentos"
+            "OPERACIONES" -> "operaciones"
+            else -> null
+        }
+
+        //para editar los campos al tener listados en algunos no queremos que se borren los datos antiguos por lo que comprobamos el dato que es y dependiendo del dato se hara una operacion u otra
+        if (campoEditar != null) {
+            if (campoEditar == "alergias" || campoEditar == "medicamentos" || campoEditar == "operaciones") {
+                db.collection("pacientes").document(paciente)
+                    .update(campoEditar, com.google.firebase.firestore.FieldValue.arrayUnion(dato))
+                    .addOnSuccessListener {
+                        Toast.makeText(this, "$opcionSeleccionada actualizada correctamente", Toast.LENGTH_SHORT).show()
+                        finish()
+                    }
+                    .addOnFailureListener { e ->
+                        Toast.makeText(this, "Error al actualizar", Toast.LENGTH_SHORT).show()
+                    }
+            } else {
+                db.collection("pacientes").document(paciente)
+                    .update(campoEditar, dato)
+                    .addOnSuccessListener {
+                        Toast.makeText(this, "$opcionSeleccionada actualizada correctamente", Toast.LENGTH_SHORT).show()
+                        finish()
+                    }
+                    .addOnFailureListener { e ->
+                        Toast.makeText(this, "Error al actualizar", Toast.LENGTH_SHORT).show()
+                    }
+            }
+
+        } else {
+            Toast.makeText(this, "Campo no reconocido", Toast.LENGTH_SHORT).show()
         }
     }
 }
