@@ -11,29 +11,29 @@
 11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 12    <!-- <uses-sdk android:minSdkVersion="21" /> -->
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:10:5-79
-13-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:10:22-76
+13-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:10:5-79
+13-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:10:22-76
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:11:5-67
-14-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:11:22-64
+14-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:11:5-67
+14-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:11:22-64
 15
 16    <permission
-16-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+16-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\01cd8096945dcb2641dc361ca93b9d0d\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
 17        android:name="com.example.gestor_historial_medico.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-17-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+17-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\01cd8096945dcb2641dc361ca93b9d0d\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
 18        android:protectionLevel="signature" />
-18-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+18-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\01cd8096945dcb2641dc361ca93b9d0d\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
 19
 20    <uses-permission android:name="com.example.gestor_historial_medico.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-20-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
-20-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+20-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\01cd8096945dcb2641dc361ca93b9d0d\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\01cd8096945dcb2641dc361ca93b9d0d\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
 21
 22    <application
-22-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:5:5-26:19
+22-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:5:5-41:19
 23        android:allowBackup="true"
 23-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:6:9-35
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-24-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\8d67bc40281663de5818612a1e5f0830\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+24-->[androidx.core:core:1.15.0] C:\Users\apuyo\.gradle\caches\transforms-4\01cd8096945dcb2641dc361ca93b9d0d\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 25        android:dataExtractionRules="@xml/data_extraction_rules"
 25-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:7:9-65
 26        android:debuggable="true"
@@ -51,173 +51,195 @@
 33        android:testOnly="true"
 34        android:theme="@style/Theme.Gestor_Historial_Medico" >
 34-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:13:9-61
-35        <activity
-35-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:15:9-25:20
-36            android:name="com.example.gestor_historial_medico.DataPatientActivity"
-36-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:16:13-48
-37            android:exported="true"
-37-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:17:13-36
-38            android:label="@string/app_name"
-38-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:18:13-45
-39            android:theme="@style/Theme.Gestor_Historial_Medico" >
-39-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:19:13-65
-40            <intent-filter>
-40-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:20:13-24:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:21:17-69
-41-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:21:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:23:17-77
-43-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:23:27-74
-44            </intent-filter>
-45        </activity>
-46
-47        <service
-47-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:9:9-15:19
-48            android:name="com.google.firebase.components.ComponentDiscoveryService"
-48-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:10:13-84
-49            android:directBootAware="true"
-49-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
-50            android:exported="false" >
-50-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:11:13-37
-51            <meta-data
-51-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:12:13-14:85
-52                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar"
-52-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:13:17-129
-53                android:value="com.google.firebase.components.ComponentRegistrar" />
-53-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\cfea7a96874c26f93a69dd95dbb4c790\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:14:17-82
-54            <meta-data
-54-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:17:13-19:85
-55                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
-55-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:18:17-122
-56                android:value="com.google.firebase.components.ComponentRegistrar" />
-56-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:19:17-82
-57            <meta-data
-57-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:20:13-22:85
-58                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-58-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:21:17-111
-59                android:value="com.google.firebase.components.ComponentRegistrar" />
-59-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\f8a5ab2d01cb0cde3944caca4990ad41\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:22:17-82
-60            <meta-data
-60-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
-61                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-61-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
-62                android:value="com.google.firebase.components.ComponentRegistrar" />
-62-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\d488644584bb4d3239bcb965113a916f\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
-63            <meta-data
-63-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
-64                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-64-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
-65                android:value="com.google.firebase.components.ComponentRegistrar" />
-65-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
-66        </service>
-67
-68        <activity
-68-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
-69            android:name="androidx.compose.ui.tooling.PreviewActivity"
-69-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
-70            android:exported="true" />
-70-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\e306b2df982c6a0e915192d9d59f15f0\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
-71        <activity
-71-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:23:9-25:39
-72            android:name="androidx.activity.ComponentActivity"
-72-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:24:13-63
-73            android:exported="true" />
-73-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\23310dc24d3d3a7bd3d83804eba8772b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:25:13-36
-74        <activity
-74-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-75-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-76            android:exported="false"
-76-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-77-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\8f68ded46751cf10f85c7a1e3d6f984f\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-78
-79        <provider
-79-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
-80            android:name="com.google.firebase.provider.FirebaseInitProvider"
-80-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
-81            android:authorities="com.example.gestor_historial_medico.firebaseinitprovider"
-81-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
-82            android:directBootAware="true"
-82-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
-83            android:exported="false"
-83-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
-84            android:initOrder="100" />
-84-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\52bb60923b648a8e926d98716d807cec\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
-85        <provider
-85-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-86            android:name="androidx.startup.InitializationProvider"
-86-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
-87            android:authorities="com.example.gestor_historial_medico.androidx-startup"
-87-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
-88            android:exported="false" >
-88-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
-89            <meta-data
-89-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
-90                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-90-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
-91                android:value="androidx.startup" />
-91-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\506f6c0a98bf59bde6ac4f155224f45d\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
-92            <meta-data
-92-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
-93                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-93-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
-94                android:value="androidx.startup" />
-94-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\72f03e193a2d1b24bd21c9db72b32fd1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
-95            <meta-data
-95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
-96                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
-97                android:value="androidx.startup" />
-97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
-98        </provider>
-99
-100        <meta-data
-100-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
-101            android:name="com.google.android.gms.version"
-101-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
-102            android:value="@integer/google_play_services_version" />
-102-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\dfd3b7f273a996690263c747bcdf5839\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
-103
-104        <receiver
-104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
-105            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
-106            android:directBootAware="false"
-106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
-107            android:enabled="true"
-107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
-108            android:exported="true"
-108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
-109            android:permission="android.permission.DUMP" >
-109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
-110            <intent-filter>
-110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
-111                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
-111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
-112            </intent-filter>
-113            <intent-filter>
-113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
-114                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
-114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
-115            </intent-filter>
-116            <intent-filter>
-116-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
-117                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
-117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
-118            </intent-filter>
-119            <intent-filter>
-119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
-120                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
-120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\484ab8f362720ab64c2c81d16529e179\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
-121            </intent-filter>
-122        </receiver>
-123    </application>
-124
-125</manifest>
+35
+36        <!-- LoginActivity como actividad de inicio -->
+37        <activity
+37-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:17:9-26:20
+38            android:name="com.example.gestor_historial_medico.LoginActivity"
+38-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:18:13-42
+39            android:exported="true"
+39-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:19:13-36
+40            android:label="@string/app_name"
+40-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:20:13-45
+41            android:theme="@style/Theme.AppCompat.Light" >
+41-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:21:13-57
+42            <intent-filter>
+42-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:22:13-25:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:23:17-69
+43-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:23:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:24:17-77
+45-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:24:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <!-- DataPatientActivity -->
+50        <activity
+50-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:30:9-33:68
+51            android:name="com.example.gestor_historial_medico.DataPatientActivity"
+51-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:31:13-48
+52            android:exported="true"
+52-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:32:13-36
+53            android:theme="@style/Theme.Gestor_Historial_Medico" />
+53-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:33:13-65
+54
+55        <!-- Patient2Activity -->
+56        <activity
+56-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:36:9-39:74
+57            android:name="com.example.gestor_historial_medico.Paciente2Activity"
+57-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:37:13-46
+58            android:exported="true"
+58-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:38:13-36
+59            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+59-->C:\Users\apuyo\AndroidStudioProjects\Gestor_Historial_Medico\app\src\main\AndroidManifest.xml:39:13-71
+60
+61        <service
+61-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\fb077cabe396756c958d8dc3027978f0\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:9:9-15:19
+62            android:name="com.google.firebase.components.ComponentDiscoveryService"
+62-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\fb077cabe396756c958d8dc3027978f0\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:10:13-84
+63            android:directBootAware="true"
+63-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+64            android:exported="false" >
+64-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\fb077cabe396756c958d8dc3027978f0\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:11:13-37
+65            <meta-data
+65-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\fb077cabe396756c958d8dc3027978f0\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:12:13-14:85
+66                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar"
+66-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\fb077cabe396756c958d8dc3027978f0\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:13:17-129
+67                android:value="com.google.firebase.components.ComponentRegistrar" />
+67-->[com.google.firebase:firebase-firestore-ktx:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\fb077cabe396756c958d8dc3027978f0\transformed\firebase-firestore-ktx-25.1.1\AndroidManifest.xml:14:17-82
+68            <meta-data
+68-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:17:13-19:85
+69                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+69-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:18:17-122
+70                android:value="com.google.firebase.components.ComponentRegistrar" />
+70-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:19:17-82
+71            <meta-data
+71-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:20:13-22:85
+72                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+72-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:21:17-111
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\apuyo\.gradle\caches\transforms-4\8c5f48465979b56a3d83d96b14a021fa\transformed\firebase-firestore-25.1.1\AndroidManifest.xml:22:17-82
+74            <meta-data
+74-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\089617da131057886952e2a0292378a3\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+75                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+75-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\089617da131057886952e2a0292378a3\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\089617da131057886952e2a0292378a3\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+77            <meta-data
+77-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+78                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+78-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+80        </service>
+81
+82        <activity
+82-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\d17565417f6b2c4f07c253562b147798\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+83            android:name="androidx.compose.ui.tooling.PreviewActivity"
+83-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\d17565417f6b2c4f07c253562b147798\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+84            android:exported="true" />
+84-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\d17565417f6b2c4f07c253562b147798\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+85        <activity
+85-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\bc6a8903baba7e3b543f333a5ceded12\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:23:9-25:39
+86            android:name="androidx.activity.ComponentActivity"
+86-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\bc6a8903baba7e3b543f333a5ceded12\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:24:13-63
+87            android:exported="true" />
+87-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\apuyo\.gradle\caches\transforms-4\bc6a8903baba7e3b543f333a5ceded12\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:25:13-36
+88        <activity
+88-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\b8300eaacb52780f0feed08de008de0c\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+89            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+89-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\b8300eaacb52780f0feed08de008de0c\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+90            android:exported="false"
+90-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\b8300eaacb52780f0feed08de008de0c\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+91-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\apuyo\.gradle\caches\transforms-4\b8300eaacb52780f0feed08de008de0c\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+92
+93        <provider
+93-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+94            android:name="com.google.firebase.provider.FirebaseInitProvider"
+94-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+95            android:authorities="com.example.gestor_historial_medico.firebaseinitprovider"
+95-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+96            android:directBootAware="true"
+96-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+97            android:exported="false"
+97-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+98            android:initOrder="100" />
+98-->[com.google.firebase:firebase-common:21.0.0] C:\Users\apuyo\.gradle\caches\transforms-4\e8c165f479e89faeaab579ee00f58d3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+99        <provider
+99-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\062105cef9fd4e291239b72a3b61b502\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+100            android:name="androidx.startup.InitializationProvider"
+100-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\062105cef9fd4e291239b72a3b61b502\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+101            android:authorities="com.example.gestor_historial_medico.androidx-startup"
+101-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\062105cef9fd4e291239b72a3b61b502\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+102            android:exported="false" >
+102-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\062105cef9fd4e291239b72a3b61b502\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+103            <meta-data
+103-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\062105cef9fd4e291239b72a3b61b502\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+104                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+104-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\062105cef9fd4e291239b72a3b61b502\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+105                android:value="androidx.startup" />
+105-->[androidx.emoji2:emoji2:1.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\062105cef9fd4e291239b72a3b61b502\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+106            <meta-data
+106-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\9f5c004beabe8469a137946ee6598f65\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+107                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+107-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\9f5c004beabe8469a137946ee6598f65\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+108                android:value="androidx.startup" />
+108-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\apuyo\.gradle\caches\transforms-4\9f5c004beabe8469a137946ee6598f65\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+109            <meta-data
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+110                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+111                android:value="androidx.startup" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+112        </provider>
+113
+114        <meta-data
+114-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\41f6cd4a3d953ec4cd76511d11493dd8\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+115            android:name="com.google.android.gms.version"
+115-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\41f6cd4a3d953ec4cd76511d11493dd8\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+116            android:value="@integer/google_play_services_version" />
+116-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\apuyo\.gradle\caches\transforms-4\41f6cd4a3d953ec4cd76511d11493dd8\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+117
+118        <receiver
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+119            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+120            android:directBootAware="false"
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+121            android:enabled="true"
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+122            android:exported="true"
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+123            android:permission="android.permission.DUMP" >
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+125                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+126            </intent-filter>
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+128                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+129            </intent-filter>
+130            <intent-filter>
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+131                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+132            </intent-filter>
+133            <intent-filter>
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+134                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+134-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+134-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\apuyo\.gradle\caches\transforms-4\352efcd9da7812ca2b5677a3f2f5e195\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+135            </intent-filter>
+136        </receiver>
+137    </application>
+138
+139</manifest>

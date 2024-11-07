@@ -1,5 +1,6 @@
 R_DEF: Internal format may change without notice
 local
+array roles_array
 color black
 color purple_200
 color purple_500
@@ -9,10 +10,24 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id btnLogin
+id btnNewUser
+id btn_Guardar
+id btn_Volver
 id btn_edit_data
+id edtNewPassword
+id edtNewUsername
+id edtPassword
+id edtUsername
+id spinner
+id spinnerRole
 id tv_patient_data
 id tv_patient_info
+id txt_Datos
 layout activity_data_patient
+layout activity_login
+layout activity_paciente2
+layout dialog_new_user
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

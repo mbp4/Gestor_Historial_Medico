@@ -32,17 +32,31 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Gestor_Historial_Medico" >
+
+        <!-- LoginActivity como actividad de inicio -->
         <activity
-            android:name="com.example.gestor_historial_medico.DataPatientActivity"
+            android:name="com.example.gestor_historial_medico.LoginActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Gestor_Historial_Medico" >
+            android:theme="@style/Theme.AppCompat.Light" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- DataPatientActivity -->
+        <activity
+            android:name="com.example.gestor_historial_medico.DataPatientActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Gestor_Historial_Medico" />
+
+        <!-- Patient2Activity -->
+        <activity
+            android:name="com.example.gestor_historial_medico.Paciente2Activity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"
