@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Gestor_Historial_Medico</string>
+
+    <string-array name="roles_array">
+        <item>médico</item>
+        <item>paciente</item>
+    </string-array>
 </resources>

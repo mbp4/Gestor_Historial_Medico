@@ -1,6 +1,7 @@
 package com.example.gestor_historial_medico
 
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
@@ -21,14 +22,16 @@ class DataPatientActivity : ComponentActivity() {
         btnEditData = findViewById(R.id.btn_edit_data)
 
         val userId = intent.getStringExtra("USER_ID") ?: ""
-        loadPatientData("Prueba")
+        if (userId.isNotEmpty()) {
+            loadPatientData(userId) // Cargar los datos del paciente con el userId
+        } else {
+            Toast.makeText(this, "No se encontró el ID de usuario", Toast.LENGTH_SHORT).show()
+        }
 
         btnEditData.setOnClickListener {
-            /*
-            val intent = Intent(this, EditDataActivity::class.java)
+            val intent = Intent(this, Paciente2Activity::class.java)
             intent.putExtra("USER_ID", userId)
             startActivity(intent)
-             */
         }
     }
 
