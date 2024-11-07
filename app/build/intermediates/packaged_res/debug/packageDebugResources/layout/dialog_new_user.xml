@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edtNewUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Usuario" />
+
+    <EditText
+        android:id="@+id/edtNewPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Contraseña"
+        android:inputType="textPassword" />
+
+    <Spinner
+        android:id="@+id/spinnerRole"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/roles_array"
+        android:spinnerMode="dropdown" />
+</LinearLayout>
