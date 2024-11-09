@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Gestor_Historial_Medico</string>
+
+    <string-array name="roles_array">
+        <item>médico</item>
+        <item>paciente</item>
+    </string-array>
+
+    <string name="seleccione_paciente">Seleccione un paciente</string>
+    <string name="alergias">Alergias</string>
+    <string name="medicamentos">Medicamentos</string>
+    <string name="operaciones">Operaciones</string>
+
 </resources>

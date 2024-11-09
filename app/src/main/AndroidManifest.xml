@@ -12,17 +12,40 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Gestor_Historial_Medico"
         tools:targetApi="31">
+
+        <!-- LoginActivity como actividad de inicio -->
         <activity
-            android:name=".MainActivity"
+            android:name=".LoginActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Gestor_Historial_Medico">
+            android:theme="@style/Theme.AppCompat.Light">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+        <!-- DataPatientActivity -->
+        <activity
+            android:name=".DataPatientActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Gestor_Historial_Medico" />
+
+        <!-- Patient2Activity -->
+        <activity
+            android:name=".Paciente2Activity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+
+        <activity android:name=".MedicoActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+
+        <activity android:name=".PacienteDetalleActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+
     </application>
 
 </manifest>
