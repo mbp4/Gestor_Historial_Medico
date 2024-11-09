@@ -89,12 +89,33 @@ class Paciente2Activity : AppCompatActivity() {
             db.collection("Pacientes").document(paciente)
                 .update(campoEditar, com.google.firebase.firestore.FieldValue.arrayUnion(dato))
                 .addOnSuccessListener {
-                    Toast.makeText(this, "$opcionSeleccionada actualizada correctamente", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(
+                        this,
+                        "$opcionSeleccionada actualizada correctamente",
+                        Toast.LENGTH_SHORT
+                    ).show()
                     finish()
                 }
                 .addOnFailureListener { e ->
                     Toast.makeText(this, "Error al actualizar", Toast.LENGTH_SHORT).show()
                 }
+
+        } else if (campoEditar == "edad") {
+            // Si es el campo edad, se convierte a entero y se actualiza
+            val edad = dato.toIntOrNull()
+            if (edad != null) {
+                db.collection("Pacientes").document(paciente)
+                    .update(campoEditar, edad)
+                    .addOnSuccessListener {
+                        Toast.makeText(this, "$opcionSeleccionada actualizada correctamente", Toast.LENGTH_SHORT).show()
+                        finish()
+                    }
+                    .addOnFailureListener { e ->
+                        Toast.makeText(this, "Error al actualizar", Toast.LENGTH_SHORT).show()
+                    }
+            } else {
+                Toast.makeText(this, "Edad no válida", Toast.LENGTH_SHORT).show()
+            }
         } else {
             // Si es un campo no lista, se actualiza directamente el valor
             db.collection("Pacientes").document(paciente)

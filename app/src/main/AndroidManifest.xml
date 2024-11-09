@@ -38,6 +38,14 @@
             android:exported="true"
             android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
 
+        <activity android:name=".MedicoActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+
+        <activity android:name=".PacienteDetalleActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+
     </application>
 
 </manifest>

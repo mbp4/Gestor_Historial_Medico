@@ -41,9 +41,11 @@ class DataPatientActivity : ComponentActivity() {
         db.collection("Pacientes").document(userId).get()
             .addOnSuccessListener { document ->
                 if (document != null && document.exists()) {
-                    val patient = document.toObject(Patient::class.java)
-                    if (patient != null) {
-                        val patientInfo = """
+                    try {
+                        // Intentamos deserializar el objeto
+                        val patient = document.toObject(Patient::class.java)
+                        if (patient != null) {
+                            val patientInfo = """
                         ID: ${patient.idPaciente}
                         Nombre: ${patient.nombre} ${patient.apellido}
                         Edad: ${patient.edad} años
@@ -51,12 +53,20 @@ class DataPatientActivity : ComponentActivity() {
                         Enfermedades: ${patient.enfermedades.joinToString(", ")}
                         Operaciones: ${patient.operaciones.joinToString(", ")}
                     """.trimIndent()
-                        tvPatientInfo.text = patientInfo
-                    } else {
+                            tvPatientInfo.text = patientInfo
+                        } else {
+                            Toast.makeText(
+                                this,
+                                "Error: No se pudo leer la información del paciente.",
+                                Toast.LENGTH_SHORT
+                            ).show()
+                        }
+                    } catch (e: Exception) {
+                        // Maneja el caso en que el campo edad no se pueda convertir a Int
                         Toast.makeText(
                             this,
-                            "Error: No se pudo leer la información del paciente.",
-                            Toast.LENGTH_SHORT
+                            "Error al deserializar los datos del paciente: ${e.message}",
+                            Toast.LENGTH_LONG
                         ).show()
                     }
                 } else {

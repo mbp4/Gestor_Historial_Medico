@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/nombreTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:text="Nombre" />
+
+    <TextView
+        android:id="@+id/apellidosTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:text="Apellidos" />
+
+    <TextView
+        android:id="@+id/edadTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:text="Edad" />
+
+    <TextView
+        android:id="@+id/alergiasTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alergias: " />
+
+    <Spinner
+        android:id="@+id/alergiasSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:prompt="@string/alergias" />
+
+    <TextView
+        android:id="@+id/medicamentosTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Medicamentos: " />
+
+    <Spinner
+        android:id="@+id/medicamentosSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:prompt="@string/medicamentos" />
+
+    <TextView
+        android:id="@+id/operacionesTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Operaciones: " />
+
+    <Spinner
+        android:id="@+id/operacionesSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:prompt="@string/operaciones" />
+</LinearLayout>

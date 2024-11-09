@@ -62,8 +62,10 @@ class LoginActivity : AppCompatActivity() {
                             if (role == "paciente") {
                                 val userId = userDoc.id // El ID del documento es el userId
                                 navigateToPatientActivity(userId)
-                            } else {
-                                Toast.makeText(this, "Acceso no permitido para este rol", Toast.LENGTH_SHORT).show()
+                            } else if (role == "médico") {
+                                // Si el usuario es médico, navegar a la actividad de médico
+                                val intent = Intent(this, MedicoActivity::class.java)
+                                startActivity(intent)
                             }
                         } else {
                             Toast.makeText(this, "Contraseña incorrecta", Toast.LENGTH_SHORT).show()
@@ -153,6 +155,7 @@ class LoginActivity : AppCompatActivity() {
                             Toast.makeText(this, "Error al crear el paciente", Toast.LENGTH_SHORT).show()
                         }
                 }
+
             }
             .addOnFailureListener {
                 Toast.makeText(this, "Error al registrar usuario", Toast.LENGTH_SHORT).show()
