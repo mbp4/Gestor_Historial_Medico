@@ -36,8 +36,7 @@ Lo siguiente será que aparezcan los datos de los pacientes, esto podrá ser de 
 
   -> En el caso del médico este podrá navegar haciendo uso de un spinner y elegir el paciente del que quiera saber los detalles. 
 
-  -> En el caso del paciente tendrá toda su información con la posibilidad de cambiarla manualmente para añadir alguna información adicional. En caso de que se modifique la información el usuario deberá salir de la aplicacion y volver a entrar para ver que los cambios se han guardado de manera correcta. 
-
+  -> En el caso del paciente tendrá toda su información con la posibilidad de cambiarla manualmente para añadir alguna información adicional.
 
 ## Programa 
 
