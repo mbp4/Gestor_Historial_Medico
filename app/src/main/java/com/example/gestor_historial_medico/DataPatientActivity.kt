@@ -1,6 +1,6 @@
 package com.example.gestor_historial_medico
 
-
+import android.app.AlertDialog
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
@@ -8,11 +8,15 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import com.google.firebase.firestore.FirebaseFirestore
+import java.util.Base64
+import javax.crypto.Cipher
+import javax.crypto.spec.SecretKeySpec
 
 class DataPatientActivity : ComponentActivity() {
 
     private lateinit var tvPatientInfo: TextView
     private lateinit var btnEditData: Button
+    private lateinit var btnCerrarSesion: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -20,6 +24,7 @@ class DataPatientActivity : ComponentActivity() {
 
         tvPatientInfo = findViewById(R.id.tv_patient_info)
         btnEditData = findViewById(R.id.btn_edit_data)
+        btnCerrarSesion = findViewById(R.id.btn_cerrar)
 
         val userId = intent.getStringExtra("USER_ID") ?: ""
         if (userId.isNotEmpty()) {
@@ -33,6 +38,26 @@ class DataPatientActivity : ComponentActivity() {
             intent.putExtra("USER_ID", userId)
             startActivity(intent)
         }
+
+        btnCerrarSesion.setOnClickListener {
+            AlertDialog.Builder(this)
+                .setTitle("Cerrar Sesión")
+                .setMessage("¿Estás seguro de que quieres cerrar sesión?")
+                .setPositiveButton("Sí") { _, _ ->
+                    val intent = Intent(this, LoginActivity::class.java)
+                    startActivity(intent)
+                }
+                .setNegativeButton("No", null)
+                .show()
+        }
+    }
+
+    override fun onResume() {
+        super.onResume()
+        val userId = intent.getStringExtra("USER_ID") ?: ""
+        if (userId.isNotEmpty()) {
+            loadPatientData(userId) // Cargar los datos del paciente con el userId
+        }
     }
 
     private fun loadPatientData(userId: String) {
@@ -44,10 +69,13 @@ class DataPatientActivity : ComponentActivity() {
                     try {
                         // Intentamos deserializar el objeto
                         val patient = document.toObject(Patient::class.java)
+                        val nom = decrypt(patient?.nombre ?: "", "cifrado123456789")
+                        val ape = decrypt(patient?.apellido ?: "", "cifrado123456789")
+
                         if (patient != null) {
                             val patientInfo = """
                         ID: ${patient.idPaciente}
-                        Nombre: ${patient.nombre} ${patient.apellido}
+                        Nombre: ${nom} ${ape}
                         Edad: ${patient.edad} años
                         Alergias: ${patient.alergias.joinToString(", ")}
                         Enfermedades: ${patient.enfermedades.joinToString(", ")}
@@ -84,5 +112,14 @@ class DataPatientActivity : ComponentActivity() {
                     Toast.LENGTH_LONG
                 ).show()
             }
+    }
+
+    fun decrypt(encryptedText: String, secretKey: String): String {
+        val cipher = Cipher.getInstance("AES/ECB/PKCS5Padding")
+        val keySpec = SecretKeySpec(secretKey.toByteArray(Charsets.UTF_8), "AES")
+        cipher.init(Cipher.DECRYPT_MODE, keySpec)
+        val decodedBytes = Base64.getDecoder().decode(encryptedText)
+        val decrypted = cipher.doFinal(decodedBytes)
+        return String(decrypted, Charsets.UTF_8)
     }
 }

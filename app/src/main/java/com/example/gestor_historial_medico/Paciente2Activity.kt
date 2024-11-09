@@ -9,6 +9,10 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.firestore.FirebaseFirestore
+import java.security.MessageDigest
+import javax.crypto.Cipher
+import javax.crypto.spec.SecretKeySpec
+import java.util.Base64
 
 class Paciente2Activity : AppCompatActivity() {
 
@@ -117,9 +121,10 @@ class Paciente2Activity : AppCompatActivity() {
                 Toast.makeText(this, "Edad no válida", Toast.LENGTH_SHORT).show()
             }
         } else {
+            val datoCifrado = encrypt(dato, "cifrado123456789")
             // Si es un campo no lista, se actualiza directamente el valor
             db.collection("Pacientes").document(paciente)
-                .update(campoEditar, dato)
+                .update(campoEditar, datoCifrado)
                 .addOnSuccessListener {
                     Toast.makeText(this, "$opcionSeleccionada actualizada correctamente", Toast.LENGTH_SHORT).show()
                     finish()
@@ -129,4 +134,14 @@ class Paciente2Activity : AppCompatActivity() {
                 }
         }
     }
+
+
+    fun encrypt(text: String, secretKey: String): String {
+        val cipher = Cipher.getInstance("AES/ECB/PKCS5Padding")
+        val keySpec = SecretKeySpec(secretKey.toByteArray(Charsets.UTF_8), "AES")
+        cipher.init(Cipher.ENCRYPT_MODE, keySpec)
+        val encrypted = cipher.doFinal(text.toByteArray(Charsets.UTF_8))
+        return Base64.getEncoder().encodeToString(encrypted)
+    }
+
 }

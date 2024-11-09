@@ -3,12 +3,16 @@ package com.example.gestor_historial_medico
 import android.os.Bundle
 import android.util.Log
 import android.widget.ArrayAdapter
+import android.widget.Button
 import android.widget.Spinner
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
+import java.util.Base64
+import javax.crypto.Cipher
+import javax.crypto.spec.SecretKeySpec
 
 class PacienteDetalleActivity : AppCompatActivity() {
 
@@ -19,6 +23,7 @@ class PacienteDetalleActivity : AppCompatActivity() {
     private lateinit var alergiasSpinner: Spinner
     private lateinit var medicamentosSpinner: Spinner
     private lateinit var operacionesSpinner: Spinner
+    private lateinit var btnVolver: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -30,12 +35,17 @@ class PacienteDetalleActivity : AppCompatActivity() {
         alergiasSpinner = findViewById(R.id.alergiasSpinner)
         medicamentosSpinner = findViewById(R.id.medicamentosSpinner)
         operacionesSpinner = findViewById(R.id.operacionesSpinner)
+        btnVolver = findViewById(R.id.btn_volver2)
 
         val idPaciente = intent.getStringExtra("idPaciente")
         if (!idPaciente.isNullOrEmpty()) {
             cargarDetallesPaciente(idPaciente)
         } else {
             Log.e("PacienteDetalleActivity", "ID de paciente es nulo o vacío")
+        }
+
+        btnVolver.setOnClickListener {
+            finish()
         }
     }
 
@@ -45,8 +55,11 @@ class PacienteDetalleActivity : AppCompatActivity() {
             .get()
             .addOnSuccessListener { document ->
                 if (document != null) {
-                    nombreTextView.text = document.getString("nombre")
-                    apellidosTextView.text = document.getString("apellidos")
+                    val nom = document.getString("nombre").toString()
+                    val ape = document.getString("apellido").toString()
+
+                    nombreTextView.text = decrypt(nom, "cifrado123456789")
+                    apellidosTextView.text = decrypt(ape, "cifrado123456789")
                     edadTextView.text = document.getLong("edad")?.toString()
 
                     // Configurar el adaptador para el Spinner de alergias
@@ -71,5 +84,14 @@ class PacienteDetalleActivity : AppCompatActivity() {
             .addOnFailureListener { exception ->
                 Log.w("PacienteDetalleActivity", "Error al cargar detalles del paciente", exception)
             }
+    }
+
+    fun decrypt(encryptedText: String, secretKey: String): String {
+        val cipher = Cipher.getInstance("AES/ECB/PKCS5Padding")
+        val keySpec = SecretKeySpec(secretKey.toByteArray(Charsets.UTF_8), "AES")
+        cipher.init(Cipher.DECRYPT_MODE, keySpec)
+        val decodedBytes = Base64.getDecoder().decode(encryptedText)
+        val decrypted = cipher.doFinal(decodedBytes)
+        return String(decrypted, Charsets.UTF_8)
     }
 }
